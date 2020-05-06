@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  padding: 30px 0;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+h2 {
+  font-family: 'Bowlby One SC';
+  font-size: 25px;
+  color: #701e87
+}
+
+p {
+  font-family: 'Shadows Into Light';
+  color: #375748;
+  font-weight: bold;
+}
